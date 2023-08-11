@@ -10,3 +10,5 @@ Work with BigData;
 Solving classification, clustering and regression problems;
 A/B testing;
 Also while working ds I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. In parallel with my studies, sometimes I work as a climbing coach. I really like rock&ice climbing, alpine skiing and team computer games like cs :)
+
+# SOME SKILLS:
